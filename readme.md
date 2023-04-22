@@ -1,3 +1,3 @@
-# Git and Github Course
+# First Snake Game
 
-Crash course for Git
+Snake on Python
