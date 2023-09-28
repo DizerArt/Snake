@@ -2,6 +2,7 @@ import random
 
 import pygame as pg
 
+#How are you doing?
 #Window
 WSIZE = (720, 480)
 
