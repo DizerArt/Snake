@@ -1,3 +1,3 @@
 # First Snake Game
 
-Snake on Python
+Snake on Python in my life
